@@ -1,0 +1,6 @@
+id,nom,prenom,email,age,actif
+1,Dupont,Jean,jean.dupont@example.test,28,true
+2,Martin,Sophie,sophie.martin@example.test,34,true
+3,Bernard,Lucas,lucas.bernard@example.test,22,false
+4,Petit,Emma,emma.petit@example.test,41,true
+5,Robert,Julie,julie.robert@example.test,30,false
