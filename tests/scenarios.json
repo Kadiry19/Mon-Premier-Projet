@@ -1,0 +1,35 @@
+[
+  {
+    "id": "SC001",
+    "nom": "Connexion réussie",
+    "description": "Vérifier la connexion avec des identifiants valides",
+    "donnees": {
+      "email": "jean.dupont@example.test",
+      "mot_de_passe": "MotDePasse123"
+    },
+    "resultat_attendu": "Connexion réussie",
+    "type": "positif"
+  },
+  {
+    "id": "SC002",
+    "nom": "Mot de passe incorrect",
+    "description": "Vérifier le comportement avec un mauvais mot de passe",
+    "donnees": {
+      "email": "jean.dupont@example.test",
+      "mot_de_passe": "incorrect"
+    },
+    "resultat_attendu": "Message d'erreur",
+    "type": "negatif"
+  },
+  {
+    "id": "SC003",
+    "nom": "Email invalide",
+    "description": "Vérifier le comportement avec un email invalide",
+    "donnees": {
+      "email": "jean@",
+      "mot_de_passe": "MotDePasse123"
+    },
+    "resultat_attendu": "Email refusé",
+    "type": "negatif"
+  }
+]
