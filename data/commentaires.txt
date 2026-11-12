@@ -1,0 +1,16 @@
+Projet d'apprentissage QA - Tests API
+
+Commentaire 1 :
+Le produit est conforme à la description.
+
+Commentaire 2 :
+La livraison a été rapide.
+
+Commentaire 3 :
+Le produit présente un défaut.
+
+Commentaire 4 :
+Le service client a répondu rapidement.
+
+Commentaire 5 :
+Le produit est facile à utiliser.
