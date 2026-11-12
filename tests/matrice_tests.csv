@@ -1,0 +1,9 @@
+ID,Nom du test,Description,Donnees,Resultat attendu,Priorite
+TC001,Verification utilisateur,Verifier la presence du nom,Jean Dupont,Nom present,Haute
+TC002,Email valide,Verifier le format de l email,jean@example.test,Email accepte,Haute
+TC003,Email invalide,Verifier le rejet d un email invalide,jean@,Erreur attendue,Haute
+TC004,Age valide,Verifier un age positif,28,Age accepte,Moyenne
+TC005,Age negatif,Verifier le rejet d un age negatif,-5,Erreur attendue,Haute
+TC006,Utilisateur actif,Verifier le statut actif,true,Statut actif,Moyenne
+TC007,Utilisateur inactif,Verifier le statut inactif,false,Statut inactif,Moyenne
+TC008,Champ manquant,Verifier le comportement sans email,Vide,Erreur attendue,Haute
