@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<produits>
+    <produit>
+        <id>1</id>
+        <nom>Ordinateur portable</nom>
+        <prix>799.99</prix>
+        <stock>12</stock>
+    </produit>
+    <produit>
+        <id>2</id>
+        <nom>Souris sans fil</nom>
+        <prix>24.90</prix>
+        <stock>50</stock>
+    </produit>
+    <produit>
+        <id>3</id>
+        <nom>Clavier mécanique</nom>
+        <prix>89.90</prix>
+        <stock>20</stock>
+    </produit>
+</produits>
